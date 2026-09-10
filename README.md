@@ -1,4 +1,4 @@
-Log Monitoring and Alert System
+📋 Log Monitoring and Alert System
 📌 Project Description
 
 The Log Monitoring and Alert System is a Python-based project that continuously monitors a log file for error messages.
